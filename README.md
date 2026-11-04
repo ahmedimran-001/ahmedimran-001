@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**ahmedimran-001/ahmedimran-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN) based in Lahore, Pakistan, with 4+ years of experience building production web apps.
 
-Here are some ideas to get you started:
+## What I do
+- Build React / Next.js frontends and Node.js / Express APIs
+- Work with MongoDB, Supabase and Stripe integrations
+- Automate workflows with Make.com and n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+React · Next.js · TypeScript · Node.js · Express · MongoDB · Tailwind · Supabase · Stripe · Git
+
+## Featured work
+- [app.amfi.ai](https://app.amfi.ai) – fintech web app, frontend development
+- [Financial Club](https://www.app.financialclub.com/) – financial platform, frontend development
+- [Portfolio](https://ahmedporjects.vercel.app) – more projects and case studies
+
+## Get in touch
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed-imran1/) · 🌐 [Portfolio](https://ahmedporjects.vercel.app) · 📧 ahmedimran3036@gmail.com
